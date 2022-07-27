@@ -1,0 +1,32 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Note: File opened in read only mode
+Time: 0 ps  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: File opened in write only mode
+Time: 0 ps  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: File type is P3
+Time: 0 ps  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: width: 3
+Time: 0 ps  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: height: 3
+Time: 0 ps  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Max encoding value: 255
+Time: 0 ps  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #0 : red value: 255, green value: 0, blue value: 0
+Time: 56 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #1 : red value: 255, green value: 255, blue value: 0
+Time: 64 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #2 : red value: 0, green value: 255, blue value: 0
+Time: 72 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #3 : red value: 255, green value: 255, blue value: 255
+Time: 80 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #4 : red value: 0, green value: 255, blue value: 255
+Time: 88 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #5 : red value: 0, green value: 0, blue value: 0
+Time: 96 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #6 : red value: 0, green value: 0, blue value: 255
+Time: 104 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #7 : red value: 255, green value: 0, blue value: 255
+Time: 112 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd
+Note: Pixel #8 : red value: 255, green value: 0, blue value: 0
+Time: 120 ns  Iteration: 0  Process: /tb_kernel3x3/line__118  File: /home/htic-broncho/DLHW/Vivado/conv2d/conv2d.srcs/sim_1/new/tb_kernel3x3.vhd

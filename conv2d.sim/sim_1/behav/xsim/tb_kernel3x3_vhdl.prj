@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../conv2d.srcs/sources_1/new/types.vhd" \
+"../../../../conv2d.srcs/sources_1/new/conv2d.vhd" \
+"../../../../conv2d.srcs/sources_1/new/formatter.vhd" \
+"../../../../conv2d.srcs/sim_1/new/tb_kernel3x3.vhd" \
+
+# Do not sort compile order
+nosort

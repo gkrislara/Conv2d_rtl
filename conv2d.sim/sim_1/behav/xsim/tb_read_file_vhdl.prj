@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../conv2d.srcs/sim_1/new/tb_ppmtopix.vhd" \
+
+# Do not sort compile order
+nosort
